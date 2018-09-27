@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Sep 26 23:01:58 GMT+02:00 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\sherif hesham\\Desktop\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\76
+0.path=classes.dex
+0.set=DEX
+count=1
